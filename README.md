@@ -1,2 +1,4 @@
-# MarkovDecisionProcess
-Value Iteration &amp; Linear Programming
+## MarkovDecisionProcess
+
+<b> Value Iteration algorithm implemented in python
+<b> Linear Programming on MDP using LP Solver	
